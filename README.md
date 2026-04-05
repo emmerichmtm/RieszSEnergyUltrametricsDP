@@ -118,4 +118,3 @@ ultrametric-riesz-dp/
 └── validation_results.json
 ```
 
-If you want to add the paper as well, simply place the LaTeX source and PDF in the same repository or under a `paper/` subdirectory.
